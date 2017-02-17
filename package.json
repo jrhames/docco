@@ -1,6 +1,7 @@
 {
-  "name": "@GerHobbelt/docco",
+  "name": "@jrhames/docco",
   "description": "The Quick and Dirty Literate Programming Documentation Generator",
+  "homepage": "https://github.com/jrhames/docco",
   "keywords": [
     "documentation",
     "docs",
@@ -8,18 +9,37 @@
     "literate",
     "coffeescript"
   ],
-  "author": "Jeremy Ashkenas",
+  "author": {
+    "name": "Jr. Hames",
+    "email": "jr@hames.com.br",
+    "url": "http://jrham.es"
+  },
   "contributors": [
+    {
+      "name": "Jeremy Ashkenas",
+      "email": "jashkenas@gmail.com"
+    },
     {
       "name": "Hellyna NG",
       "email": "hellyna@hellyna.com"
+    },
+    {
+      "name": "Ger Hobbelt",
+      "email": "ger@hobbelt.com"
+    },
+    {
+      "name": "Jr. Hames",
+      "email": "jr@hames.com.br"
     }
   ],
   "version": "0.7.2-5",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jashkenas/docco.git"
+    "url": "https://github.com/jrhames/docco.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jrhames/docco/issues"
   },
   "engines": {
     "node": ">=0.2.0"
