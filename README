@@ -10,14 +10,14 @@
 Docco is a quick-and-dirty, hundred-line-long, literate-programming-style
 documentation generator. For more information, see:
 
-- Current Repo: https://github.com/GerHobbelt/docco
-- Original Repo: https://github.com/jashkenas/docco
+- Current Repo: https://github.com/jrhames/docco
+- Original Repo: https://github.com/GerHobbelt/docco
 
 
 Installation
 ------------
 
-  sudo npm install -g gerhobbelt/docco
+  sudo npm install -g @jrhames/docco
 
 
 Usage
